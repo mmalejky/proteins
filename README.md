@@ -36,7 +36,7 @@ from *BLAST nr Database*.
 3. Pass the result file ```example-out.fasta``` to ```scan-pfam.py example-out.fasta example-out.csv```.
 4. Pass the input file ```example.fasta``` to ```scan-pfam.py example.fasta example.csv```.
 5. Pass both ```example.csv``` and ```example-out.csv``` to ```fisher-test.py```.
-6. At the end, we get propability of this domain distribution. 
+6. At the end, we get probability of this domain distribution. 
 
 This whole set of instructions can be executed from ```test.sh example.fasta```.
 
